@@ -1,0 +1,15 @@
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/bin/Debug/net8.0/CodeDokumentationGenerator
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/bin/Debug/net8.0/CodeDokumentationGenerator.deps.json
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/bin/Debug/net8.0/CodeDokumentationGenerator.runtimeconfig.json
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/bin/Debug/net8.0/CodeDokumentationGenerator.dll
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/bin/Debug/net8.0/CodeDokumentationGenerator.pdb
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/CodeDokumentationGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/CodeDokumentationGenerator.AssemblyInfoInputs.cache
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/CodeDokumentationGenerator.AssemblyInfo.cs
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/CodeDokumentationGenerator.csproj.CoreCompileInputs.cache
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/CodeDokumentationGenerator.sourcelink.json
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/CodeDokumentationGenerator.dll
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/refint/CodeDokumentationGenerator.dll
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/CodeDokumentationGenerator.pdb
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/CodeDokumentationGenerator.genruntimeconfig.cache
+/home/mhoffmann/github/MaikHo/CodeDocumentationGenerator/CodeDokumentationGenerator/obj/Debug/net8.0/ref/CodeDokumentationGenerator.dll
